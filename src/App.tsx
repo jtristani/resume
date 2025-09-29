@@ -10,7 +10,7 @@ function App() {
       {/* Top header bar */}
       <header className="flex items-center justify-between bg-navy text-white px-8 py-4 border-b-4 border-complement">
         <div className="flex items-center">
-          <img src="/profile.jpg" alt="Profile" className="w-12 h-12 rounded-full mr-4 border-2 border-complement" />
+          <img src="./public/profile.jpg" alt="Profile" className="w-12 h-12 rounded-full mr-4 border-2 border-complement" />
           <h1 className="text-2xl font-semibold">José M. Tristani</h1>
           <h3 className="text-2xl font-semibold">&nbsp;&nbsp;| Sr. Software Engineer - Lead</h3>
         </div>
