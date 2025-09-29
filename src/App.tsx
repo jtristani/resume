@@ -18,7 +18,7 @@ const experienceData: ExperienceEntry[] = [
   {
     title: 'Sr. Software Engineer – Lead',
     company: 'ReliaQuest',
-    date: 'Jul 2021 – Present',
+    date: 'Juy 2021 – Present',
     details: [
       {
         heading: 'Designed & lead the engineering of a content management system for the GreyMatter platform',
