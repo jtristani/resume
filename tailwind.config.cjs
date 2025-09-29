@@ -8,7 +8,8 @@ module.exports = {
     extend: {
       colors: {
         navy: "#001f3f",
-        accent: "#d3d3d3",
+        accent: "#4fd1c5",      // teal accent
+        complement: "#4fd1c5",  // pink complement
       },
     },
   },
