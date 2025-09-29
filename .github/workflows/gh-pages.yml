@@ -24,7 +24,8 @@ jobs:
         run: npm run build
 
       - name: Copy public folder to dist
-        run: cp -R public/. dist/
+        run: mkdir dist/public
+        run: cp -R public/. dist/public/
 
       - name: Upload production-ready build files
         uses: actions/upload-artifact@v4
