@@ -20,14 +20,14 @@ const experienceData: ExperienceEntry[] = [
     date: 'Jul 2021 – Present',
     details: [
       {
-        heading: 'Designed & lead the engineering of a content management system for the GreyMatter platform',
+        heading: 'Designed & led the engineering of a content management system for the GreyMatter platform',
         content:
           'The GreyMatter platform is composed of over 200 microservices with user generated content scattered across multiple of these services. The Content Management team engineered a first-party solution to not only version content through an integration with a new global content service, but also distribute Global content and configuration across the different GreyMatter regions.',
       },
       {
         heading: 'Implemented the Ray (ray.io) framework to train/host internal and open-source models',
         content:
-          'As part of an AI driven product pipeline, lead the implementation of Ray infrastructure & CI pipelines to train multiple internal ML models, ranging from fine-tuned LLMs, embedding, and classifier models for internal use cases. Designed a region agnostic solution to route traffic to models hosted in multiple regions to provide High-Availability and allieviate compute constraints in regions.',
+          'As part of an AI driven product pipeline, led the implementation of Ray infrastructure & CI pipelines to train multiple internal ML models, ranging from fine-tuned LLMs, embedding, and classifier models for internal use cases. Designed a region agnostic solution to route traffic to models hosted in multiple regions to provide High-Availability and allieviate compute constraints in regions.',
       },
       {
         heading: 'Mentoring others',

@@ -70,17 +70,17 @@ Bachelor of Science in Computer Engineering
 **Sr. Software Engineer - Lead**  
 ReliaQuest | July 2021 – Present
 
-#### Designed & lead the engineering of a content management system for the GreyMatter platform  
+#### Designed & led the engineering of a content management system for the GreyMatter platform  
 
 The GreyMatter platform is composed of over 200 microservices with user generated content scattered across multiple of these services. The Content Management team engineered a first-party solution to not only version content through an integration with a new global content service, but also distribute Global content and configuration across the different GreyMatter regions.
 
 #### Implemented the **Ray** (ray.io) framework to train/host internal and open-source models
 
-As part of an AI driven product pipeline, lead the implementation of Ray infrastructure & CI pipelines to train multiple internal ML models, ranging from fine-tuned LLMs, embedding, and classifier models for internal use cases. Designed a region agnostic solution to route traffic to models hosted in multiple regions to provide High-Availability and allieviate compute constraints in regions.
+As part of an AI driven product pipeline, led the implementation of Ray infrastructure & CI pipelines to train multiple internal ML models, ranging from fine-tuned LLMs, embedding, and classifier models for internal use cases. Designed a region agnostic solution to route traffic to models hosted in multiple regions to provide High-Availability and allieviate compute constraints in regions.
 
 #### Mentoring others
 
-Onboarded and mentored associates into the GreyMatter platform, explained core services, functionalities and concepts. Lead and mentored interns with the creation of an internal developer CLI for interacting with developer environments and the creation of a classical machine learning classification model to improve existing approaches in reducing the alert noise and fatigue, and close incidents based on the included artifacts.
+Onboarded and mentored associates into the GreyMatter platform, explained core services, functionalities and concepts. Led and mentored interns with the creation of an internal developer CLI for interacting with developer environments and the creation of a classical machine learning classification model to improve existing approaches in reducing the alert noise and fatigue, and close incidents based on the included artifacts.
 
 #### Developing AI integration services on the core GreyMatter platform
 
