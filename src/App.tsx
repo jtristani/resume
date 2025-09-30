@@ -34,7 +34,7 @@ function App() {
             </li>
             <li>
               🖥️{' '}
-              <a href="https://github.com/frostai" className="underline hover:text-gray-300">
+              <a href="https://github.com/jtristani" className="underline hover:text-gray-300">
                 GitHub
               </a>
             </li>
