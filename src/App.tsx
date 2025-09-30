@@ -85,11 +85,9 @@ function App() {
         </aside>
 
         {/* Main content */}
-        <main className="w-full md:flex-1 p-8">
+        <main className="w-full md:flex-1 p-6">
           <Summary />
-
           <Education />
-
           <Experience />
         </main>
       </div>
