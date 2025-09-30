@@ -8,17 +8,17 @@ function App() {
   return (
     <div className="min-h-screen flex flex-col">
       {/* Top header bar */}
-      <header className="flex items-center justify-between bg-navy text-white px-8 py-4 border-b-4 border-complement">
-        <div className="flex items-center">
+      <header className="flex flex-col items-center justify-center sm:flex-row sm:justify-between bg-navy text-white px-8 py-4 border-b-4 border-complement">
+        <div className="flex flex-col items-center justify-center sm:flex-row sm:justify-start items-center space-y-2 sm:space-y-0 sm:space-x-4">
           <img src="./public/profile.jpg" alt="Profile" className="w-12 h-12 rounded-full mr-4 border-2 border-complement" />
-          <h1 className="text-2xl font-semibold">José M. Tristani</h1>
-          <h3 className="text-2xl font-semibold">&nbsp;&nbsp;| Sr. Software Engineer - Lead</h3>
+          <h1 className="text-xl sm:text-2xl font-semibold">José M. Tristani</h1>
+          <h3 className="mt-1 sm:mt-0 sm:ml-4 text-sm sm:text-2xl font-semibold text-center sm:text-left">Sr. Software Engineer - Lead</h3>
         </div>
       </header>
 
-      <div className="flex flex-1 bg-white">
+      <div className="flex flex-col-reverse md:flex-row flex-1 bg-white">
         {/* Sidebar */}
-        <aside className="bg-navy text-white w-64 p-6">
+        <aside className="bg-navy text-white w-full md:w-64 p-6">
           <h2 className="text-lg font-semibold border-b border-accent pb-2 mb-4">Contact</h2>
           <ul className="space-y-2 mb-6 text-sm">
             <li>✉️ j@tristani.io</li>
@@ -85,7 +85,7 @@ function App() {
         </aside>
 
         {/* Main content */}
-        <main className="flex-1 p-8">
+        <main className="w-full md:flex-1 p-8">
           <Summary />
 
           <Education />
